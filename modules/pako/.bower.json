@@ -25,15 +25,15 @@
     "benchmark",
     "coverage"
   ],
-  "version": "0.2.5",
-  "_release": "0.2.5",
+  "version": "1.0.3",
+  "_release": "1.0.3",
   "_resolution": {
     "type": "version",
-    "tag": "0.2.5",
-    "commit": "eda5a97b543decd7e712534fa4cfcc88b85dc4ff"
+    "tag": "1.0.3",
+    "commit": "653c0b00d8941c89d09ed4546d2179001ec44efc"
   },
-  "_source": "git://github.com/nodeca/pako.git",
-  "_target": "~0.2.5",
+  "_source": "https://github.com/nodeca/pako.git",
+  "_target": "^1.0.3",
   "_originalSource": "pako",
   "_direct": true
 }
